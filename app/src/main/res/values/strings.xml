@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="appwidget_text">要想改变我们的人生，第一步就是要改变我们的心态，只要心态是正确的，我们的世界就会的光明的。</string>
+    <string name="widget_title">今日寄语</string>
+</resources>
